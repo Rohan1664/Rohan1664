@@ -4,13 +4,11 @@
 
 ### Full-Stack Developer | B.Tech CSE Student | ACM Student Chapter Chairman
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Building+Modern+Web+Applications;Learning+Cloud+%26+DevOps;Chairman+%40+JIT+ACM+Student+Chapter;Always+Learning+%7C+Always+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Building+Modern+Web+Applications;Learning+Cloud+%26+DevOps;Chairman+%40+JIT+ACM+Student+Chapter;Always+Learning+%7C+Always+Building" />
 
 <br />
 
-<a href="https://github.com/Rohan1664">
-<img src="https://komarev.com/ghpvc/?username=Rohan1664&label=Profile+Views&style=flat-square&color=58A6FF" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=Rohan1664&label=PROFILE+VIEWS&style=for-the-badge&color=58A6FF" />
 
 </div>
 
@@ -18,9 +16,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a **B.Tech Computer Science Engineering student** and **Full-Stack Developer** passionate about building modern and practical web applications.
+I'm a **B.Tech Computer Science Engineering student** and **Full-Stack Developer** passionate about building modern, practical, and user-friendly web applications.
 
-I enjoy working with frontend, backend, databases, APIs, and deployment while continuously learning **Cloud and DevOps**.
+I enjoy working across the complete development lifecycle — from designing interfaces and building APIs to databases, authentication, deployment, and cloud technologies.
 
 - 🎓 B.Tech CSE — Jhulelal Institute of Technology, Nagpur
 - 💻 Full-Stack Web Development
@@ -33,38 +31,35 @@ I enjoy working with frontend, backend, databases, APIs, and deployment while co
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=js,html,css,python" />
+</p>
 
-### Frontend
+### 🎨 Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+</p>
 
-### Backend
+### ⚙️ Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-### Database
+### 🗄️ Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
 
-### Tools & Cloud
+### ☁️ Tools & Cloud
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,gcp,vercel" />
+</p>
 
 ---
 
@@ -72,7 +67,7 @@ I enjoy working with frontend, backend, databases, APIs, and deployment while co
 
 ### 🔥 Hackblitz
 
-Web platform developed for the **Hackblitz technical event**.
+A web platform developed for the **Hackblitz technical event**.
 
 **Tech:** React · JavaScript · Web Development
 
@@ -100,29 +95,45 @@ A college management system designed to manage student information, document ver
 
 ---
 
-## 👨‍💼 Leadership
+## 📊 GitHub Stats & Contributions
+
+<div align="center">
+
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=Rohan1664&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  alt="GitHub Stats"
+/>
+
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan1664&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  alt="Top Languages"
+/>
+
+<br />
+
+<img
+  height="180"
+  src="https://streak-stats.demolab.com?user=Rohan1664&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
+
+</div>
+
+---
+
+## 👨‍💼 ACM Leadership
 
 ### JIT ACM Student Chapter
 
 **Chairman**
 
-As the Chairman of the JIT ACM Student Chapter, I work with students to encourage technical learning, collaboration, and professional development.
+As the **Chairman of the JIT ACM Student Chapter**, I work with students to encourage technical learning, collaboration, and professional development.
 
-**Focus Areas**
+### Focus Areas
 
 `Leadership` · `Technical Events` · `Workshops` · `Team Management` · `Community Building`
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rohan1664&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan1664&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
@@ -142,15 +153,15 @@ As the Chairman of the JIT ACM Student Chapter, I work with students to encourag
 <div align="center">
 
 <a href="https://rohan.nishantp.me">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/rohan-fasate-9a93aa32a/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/Rohan1664">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
