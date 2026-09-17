@@ -8,7 +8,7 @@
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=Rohan1664&label=PROFILE+VIEWS&style=for-the-badge&color=58A6FF" />
+<!-- <img src="https://komarev.com/ghpvc/?username=Rohan1664&label=PROFILE+VIEWS&style=for-the-badge&color=58A6FF" /> -->
 
 </div>
 
@@ -34,7 +34,7 @@ I enjoy working across the complete development lifecycle — from designing int
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,html,css,python" />
+<img src="https://skillicons.dev/icons?i=js,html,css" />
 </p>
 
 ### 🎨 Frontend
@@ -52,7 +52,7 @@ I enjoy working across the complete development lifecycle — from designing int
 ### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### ☁️ Tools & Cloud
@@ -99,7 +99,7 @@ A college management system designed to manage student information, document ver
 
 <div align="center">
 
-<img
+<!-- <img
   height="180"
   src="https://github-readme-stats.vercel.app/api?username=Rohan1664&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
   alt="GitHub Stats"
@@ -109,7 +109,7 @@ A college management system designed to manage student information, document ver
   height="180"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan1664&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
   alt="Top Languages"
-/>
+/> -->
 
 <br />
 
